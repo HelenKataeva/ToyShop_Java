@@ -1,0 +1,11 @@
+Round 1: your prize is TOY_SOLDIER
+Round 2: your prize is TEA_SET
+Round 3: your prize is TRAIN
+Round 4: your prize is TEA_SET
+Round 5: your prize is TOY_SOLDIER
+Round 6: your prize is TEA_SET
+Round 7: your prize is TOY_SOLDIER
+Round 8: your prize is PLANE
+Round 9: your prize is TEA_SET
+Round 10: your prize is PLANE
+
